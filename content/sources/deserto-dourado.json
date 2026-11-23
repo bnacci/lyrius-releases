@@ -1,0 +1,17 @@
+{
+  "id": "org.lyrius.theme.deserto-dourado",
+  "name": "Deserto dourado",
+  "backgroundType": "image",
+  "backgroundImagePath": "backgrounds/deserto-dourado.png",
+  "backgroundColors": [
+    4279570479,
+    4281671770
+  ],
+  "backgroundDim": 0.25,
+  "textColor": 4294967295,
+  "fontFamily": "Plus Jakarta Sans",
+  "fontSize": 64,
+  "fontWeight": 700,
+  "shadow": true,
+  "paddingPercent": 6
+}

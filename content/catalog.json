@@ -1,0 +1,281 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "org.lyrius.theme.ceu-estrelado",
+      "kind": "theme",
+      "name": {
+        "pt": "Céu estrelado",
+        "en": "Starry sky"
+      },
+      "version": "1.0.0",
+      "file": "themes/ceu-estrelado.lyst",
+      "preview": "previews/ceu-estrelado.jpg",
+      "bundled": true,
+      "background": "ceu-estrelado",
+      "size": 1635727,
+      "sha256": "966a3f37bc6c74ce0177cf16f066726b7d537734863a7f8346acdb4eca749331"
+    },
+    {
+      "id": "org.lyrius.theme.deserto-dourado",
+      "kind": "theme",
+      "name": {
+        "pt": "Deserto dourado",
+        "en": "Golden desert"
+      },
+      "version": "1.0.0",
+      "file": "themes/deserto-dourado.lyst",
+      "preview": "previews/deserto-dourado.jpg",
+      "bundled": false,
+      "background": "deserto-dourado",
+      "size": 1660580,
+      "sha256": "2bd582448d4cf34b4318b91b9d8efc1fa711870a75929a31df304370dfcd0804"
+    },
+    {
+      "id": "org.lyrius.theme.amanhecer",
+      "kind": "theme",
+      "name": {
+        "pt": "Amanhecer",
+        "en": "Daybreak"
+      },
+      "version": "1.0.0",
+      "file": "themes/amanhecer.lyst",
+      "preview": "previews/amanhecer.jpg",
+      "bundled": false,
+      "background": "amanhecer",
+      "size": 1906934,
+      "sha256": "374fd22d21c9ee18fa6230852bc2e3d9ce84e4107aaa9105f8bbf397fa217450"
+    },
+    {
+      "id": "org.lyrius.theme.jardim",
+      "kind": "theme",
+      "name": {
+        "pt": "Jardim",
+        "en": "Garden"
+      },
+      "version": "1.0.0",
+      "file": "themes/jardim.lyst",
+      "preview": "previews/jardim.jpg",
+      "bundled": false,
+      "background": "jardim",
+      "size": 1675935,
+      "sha256": "aa9e9edac5005afa7080709daf7dd3ef57503c4cecf7cd0914514775800d577e"
+    },
+    {
+      "id": "org.lyrius.theme.entardecer",
+      "kind": "theme",
+      "name": {
+        "pt": "Entardecer",
+        "en": "Sunset"
+      },
+      "version": "1.0.0",
+      "file": "themes/entardecer.lyst",
+      "preview": "previews/entardecer.jpg",
+      "bundled": false,
+      "background": "entardecer",
+      "size": 1495694,
+      "sha256": "dbd704f85332684ecf3307f9275ac543ce5525b6f747fd8412f957da448febe6"
+    },
+    {
+      "id": "org.lyrius.theme.aguas-serenas",
+      "kind": "theme",
+      "name": {
+        "pt": "Águas serenas",
+        "en": "Still waters"
+      },
+      "version": "1.0.0",
+      "file": "themes/aguas-serenas.lyst",
+      "preview": "previews/aguas-serenas.jpg",
+      "bundled": false,
+      "background": "aguas-serenas",
+      "size": 1661122,
+      "sha256": "fdaef850be10789963b161d44c0ee01bce9cfcd54332fb8b05fbdf82cf02aba8"
+    },
+    {
+      "id": "org.lyrius.theme.luz-violeta",
+      "kind": "theme",
+      "name": {
+        "pt": "Luz violeta",
+        "en": "Violet light"
+      },
+      "version": "1.0.0",
+      "file": "themes/luz-violeta.lyst",
+      "preview": "previews/luz-violeta.jpg",
+      "bundled": true,
+      "background": "luz-violeta",
+      "size": 1578584,
+      "sha256": "468a2faa77af7ced3485623e0defb343d8b8417426eabf987e9b5d05ac02a0ae"
+    },
+    {
+      "id": "org.lyrius.theme.gloria",
+      "kind": "theme",
+      "name": {
+        "pt": "Glória",
+        "en": "Glory"
+      },
+      "version": "1.0.0",
+      "file": "themes/gloria.lyst",
+      "preview": "previews/gloria.jpg",
+      "bundled": false,
+      "background": "gloria",
+      "size": 1601421,
+      "sha256": "cc4de171b25e259b5cf51ccfd1c6a8c59ee71a4ff00d373987ed01f66fb53b00"
+    },
+    {
+      "id": "org.lyrius.theme.profundezas",
+      "kind": "theme",
+      "name": {
+        "pt": "Profundezas",
+        "en": "Depths"
+      },
+      "version": "1.0.0",
+      "file": "themes/profundezas.lyst",
+      "preview": "previews/profundezas.jpg",
+      "bundled": false,
+      "background": "profundezas",
+      "size": 1512762,
+      "sha256": "8c13087379b077b45b7cf3613bbf9ba690fca51b5ba156c4fbe5add8724899fe"
+    },
+    {
+      "id": "org.lyrius.theme.luz-do-alto",
+      "kind": "theme",
+      "name": {
+        "pt": "Luz do alto",
+        "en": "Light from above"
+      },
+      "version": "1.0.0",
+      "file": "themes/luz-do-alto.lyst",
+      "preview": "previews/luz-do-alto.jpg",
+      "bundled": false,
+      "background": "luz-do-alto",
+      "size": 1594521,
+      "sha256": "1dbed5d229fd6a5da26a6bf17a47a6c307d1dfc826881f5924ac6e1f0f1df750"
+    },
+    {
+      "id": "org.lyrius.wallpaper.lyrius-classico",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Lyrius clássico",
+        "en": "Lyrius classic"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/lyrius-classico.jpg",
+      "preview": "previews/lyrius-classico.jpg",
+      "bundled": true,
+      "size": 88640,
+      "sha256": "65282beab2a6bb5bf3e69a2d71c95b3c967b6880486f5e2bc45bff7cee015bbc"
+    },
+    {
+      "id": "org.lyrius.wallpaper.ondas-suaves",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Ondas suaves",
+        "en": "Soft waves"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/ondas-suaves.png",
+      "preview": "previews/ondas-suaves.jpg",
+      "bundled": true,
+      "size": 1331116,
+      "sha256": "240b3e2bc64576e95fde23b291c165c4778861f068682f47aa309da0cc2916b5"
+    },
+    {
+      "id": "org.lyrius.wallpaper.luz-da-cruz",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Luz da cruz",
+        "en": "Light of the cross"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/luz-da-cruz.png",
+      "preview": "previews/luz-da-cruz.jpg",
+      "bundled": false,
+      "size": 1829349,
+      "sha256": "07fd8e9588ea2977b02d6927552eaeed801721886877698891f67b1a156ae96d"
+    },
+    {
+      "id": "org.lyrius.wallpaper.harmonia",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Harmonia",
+        "en": "Harmony"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/harmonia.png",
+      "preview": "previews/harmonia.jpg",
+      "bundled": false,
+      "size": 1498519,
+      "sha256": "b1f103f507f96e70fc7dedce11bdd5fa556fa6eadb9430d80412987c9f767dd5"
+    },
+    {
+      "id": "org.lyrius.wallpaper.brisa",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Brisa",
+        "en": "Breeze"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/brisa.png",
+      "preview": "previews/brisa.jpg",
+      "bundled": false,
+      "size": 1505263,
+      "sha256": "9c081f8ca364b8a64ac7e7fe4d0a857ebc3a2c26bd2ea3534833b470425bad93"
+    },
+    {
+      "id": "org.lyrius.wallpaper.ondas-noturnas",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Ondas noturnas",
+        "en": "Night waves"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/ondas-noturnas.png",
+      "preview": "previews/ondas-noturnas.jpg",
+      "bundled": false,
+      "size": 1718740,
+      "sha256": "a812e851ec4660a77469762382e9e3e98cd0140dd6a7a88541c0935756fff7cc"
+    },
+    {
+      "id": "org.lyrius.wallpaper.encontro",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Encontro",
+        "en": "Confluence"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/encontro.png",
+      "preview": "previews/encontro.jpg",
+      "bundled": false,
+      "size": 1521802,
+      "sha256": "b15c51b51cccd1afa574c85081283b06a49699966beaba7d70dc19295e634761"
+    },
+    {
+      "id": "org.lyrius.wallpaper.luz-dourada",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Luz dourada",
+        "en": "Golden light"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/luz-dourada.png",
+      "preview": "previews/luz-dourada.jpg",
+      "bundled": false,
+      "size": 1540368,
+      "sha256": "3541a14ac95db9a231dc16bbe4988ac51a04f5637a376ec99bc70a7702f9bb91"
+    },
+    {
+      "id": "org.lyrius.wallpaper.ritmo",
+      "kind": "wallpaper",
+      "name": {
+        "pt": "Ritmo",
+        "en": "Rhythm"
+      },
+      "version": "1.0.0",
+      "file": "wallpapers/ritmo.png",
+      "preview": "previews/ritmo.jpg",
+      "bundled": false,
+      "size": 1878493,
+      "sha256": "7e4ccfd9aaa1e6e18060d8e14ac6cc839f4855db0ec43d0a438a7dc2cad24888"
+    }
+  ]
+}

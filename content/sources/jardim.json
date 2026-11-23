@@ -1,0 +1,17 @@
+{
+  "id": "org.lyrius.theme.jardim",
+  "name": "Jardim",
+  "backgroundType": "image",
+  "backgroundImagePath": "backgrounds/jardim.png",
+  "backgroundColors": [
+    4279570479,
+    4281671770
+  ],
+  "backgroundDim": 0.25,
+  "textColor": 4294967295,
+  "fontFamily": "Plus Jakarta Sans",
+  "fontSize": 64,
+  "fontWeight": 700,
+  "shadow": true,
+  "paddingPercent": 6
+}
